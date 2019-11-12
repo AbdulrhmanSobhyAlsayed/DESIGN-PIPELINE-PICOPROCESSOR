@@ -15,3 +15,11 @@ The stages:
 3. EX: Execute operation or calculate load/store address
 4. MEM: Memory access for load and store
 5. WB: Write Back result to register
+
+
+**For more details about pP** 
+<a href="pP-ISA.pdf">Click here </a><br>
+**For my design details**
+<a href="Designing for pipeline picoProcessor.pdf">Click here </a> <br>
+**For the single-cycle design of pP**
+<a href="https://github.com/AbdulrhmanSobhyAlsayed/DESIGN-SINGLE-CYCLE-PICOPROCESSOR.git">Click here </a> <br>
